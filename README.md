@@ -11,4 +11,6 @@
 ### 什么是GPT？💋
 什么是GPT？如何使用GPT？如何更好的使用GPT？
 ### 联系我们🧑‍💻
-您有更好的预设？软件有BUG？您有什么想？
+您有更好的预设？软件有BUG？您有什么想？  
+
+[去下载插件](https://github.com/okUnderstand/ok/releases)
